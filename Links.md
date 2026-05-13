@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 16:35 IR
+- 🗜️ [SideloadlySetup64.7z.001](https://github.com/rza3682400/sandbox/raw/main/dl/SideloadlySetup64.7z.001) `95.0MB`
+
+- 🗜️ [SideloadlySetup64.7z.002](https://github.com/rza3682400/sandbox/raw/main/dl/SideloadlySetup64.7z.002) `28.8MB`
+
+---
+
+
 ### 📅 2026-05-12 17:19 IR
 - 📱 [`com.netmod.syna.apks`](https://github.com/nscl5/sandbox/raw/main/apks/com.netmod.syna.apks) - **23.4MB**
 
